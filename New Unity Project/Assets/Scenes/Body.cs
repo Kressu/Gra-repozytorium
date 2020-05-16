@@ -7,7 +7,7 @@ public class Body : MonoBehaviour
     private Rigidbody2D rb;
     public float playerSpeed = 3;
     private Vector2 movment;
-    public float jumoForce = 5;
+    public float jumpForce = 5;
     private bool canJump = false;
     private bool ground = false;
     // Start is called before the first frame update
