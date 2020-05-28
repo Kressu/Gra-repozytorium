@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MojaGraSceny/NewFolder/Wejscie.unity
+    path: Assets/MojaGraSceny/skrypty i jpgi/sceny/Wejscie.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/MojaGraSceny/NewFolder/mojaGra.unity
+    path: Assets/MojaGraSceny/skrypty i jpgi/sceny/mojaGra.unity
     guid: 99f4190380276b842bb7391980d4eda4
   - enabled: 1
-    path: Assets/MojaGraSceny/NewFolder/GAMEOVER.unity
+    path: Assets/MojaGraSceny/skrypty i jpgi/sceny/GAMEOVER.unity
     guid: 6970082209bcd124fac40928ad948538
   m_configObjects: {}
