@@ -6,11 +6,10 @@ using UnityEngine.UI;
 
 public class Reverse : MonoBehaviour
 {
- 
- 
 
-    // Update is called once per frame
-    void OnMouseDown()
+
+        // Update is called once per frame
+        void OnMouseDown()
     {
         var cmp = GetComponent<Rigidbody2D>();
         cmp.velocity = -cmp.velocity *50;
