@@ -44,3 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Camera
+    uniqueID: 4203319467
+    locked: 0
+  - name: Box
+    uniqueID: 1158503373
+    locked: 0
